@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    padding-bottom: 100px;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header_menu {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.top_content {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.top_buttons {
+    margin-top: 50px;
+}
+
+.red_button  {
+    border: none;
+    background: #ff0000;
+    border-radius: 30px;
+    width: 120px;
+    height: 30px;
+    color:#ffffff;
+}
+
+.white_button {
+    border: 1px solid #000;
+    background: #ffffff;
+    border-radius: 30px;
+    width: 120px;
+    height: 30px;
+    color:#cccccc;
+}
